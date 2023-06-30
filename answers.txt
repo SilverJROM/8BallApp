@@ -1,0 +1,48 @@
+Yes
+      "It is certain.",
+      "It is decidedly so.",
+      "Without a doubt.",
+      "Yes definitely."
+Maybe/Yes
+      "As I see it, yes.",
+      "Most likely.",
+      "Outlook good.",
+      "Signs point to yes."
+No
+      "Don't count on it.",
+      "My sources say no.",
+      "Outlook not so good.",
+      "Very doubtful."
+Maybe/No
+      "Reply hazy, try again.",
+      "Ask again later.",
+      "Better not tell you now.",
+      "Cannot predict now.",
+      "Concentrate and ask again."
+Sarcastic
+	"Oh, most likely, unless you stumble upon a magical leprechaun with a secret agenda.",
+	"Oh, you can definitely rely on it, just as long as you never dare to ask any follow-up questions.",
+	"It's looking incredibly likely, but hey, don't forget to keep a pinch of skepticism handy. You never know!",
+	"The stars are aligning ever so perfectly for a positive outcome, but let's not go all-in and bet your life savings on it, shall we?",
+	"Oh, the outlook seems oh-so-promising, but don't rush to book that dream vacation just yet. Let's keep it suspenseful!",
+	"Signs point to a resounding no, but hey, stranger things have happened, like finding Bigfoot on your doorstep!",
+	"My oh-so-reliable sources say a big, fat NO. Well, they're usually reliable, except on April Fool's Day. Go figure!",
+	"The outlook is as dim as trying to find a needle in a haystack during a blackout. So, yeah, not looking good.",
+	"Signs point to a resounding NO, my friend. It's as clear as a neon sign in the pitch-dark night. Not happening!",
+	"Absolutely not! Unless, of course, you possess the extraordinary ability to defy gravity and bend the laws of physics. No biggie!",
+	"The answer is a firm NO, my friend. It's as solid as a brick wall that stands tall and unyielding. No way around it."
+Witty
+    "No way José! Unless you can convince a herd of cats to sing in perfect harmony.",
+      "My sources say no, and they're more mysterious than a hidden treasure guarded by a dragon.",
+      "Absolutely not, unless you stumble upon a parallel universe where pigs fly and fish tap dance.",
+      "The stars say no, and they haven't been this unanimous since the last solar eclipse. ",
+      "magic 8-ball says no, but it's been known to give bad hair advice.",
+      "Very doubtful, like finding Bigfoot riding a unicorn in your backyard.",
+      "Signs point to no, and I wouldn't bet my collection of rubber ducks against it.",
+      "It's a definite maybe, like finding a mermaid in your bathtub. ",
+      "You better believe it! Unless you're asking if it's Opposite Day, then the answer is... maybe.",
+      "Signs point to yes, unless the universe has a sudden change of heart.",
+      "Absolutely, and I'll eat my hat if I'm wrong (as long as it's made of marshmallows). ",
+      "You may rely on it, but only if you promise to give me a high-five. ",
+      "Outlook good, like finding a unicorn in your backyard.",
+      "Yes, definitely, and pigs might start flying lessons next week. "
