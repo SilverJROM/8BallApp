@@ -7,13 +7,13 @@ This is a Telegram bot that acts as a Magic 8 Ball, providing answers to user's 
 1. Clone the repository using Git:
 
 ```sh
-git clone https://github.com/your-username/magic-8-ball-telegram-bot.git
+git clone https://github.com/SilverJROM/8BallApp.git
 ```
 
 2. Navigate to the project directory:
 
 ```sh
-cd magic-8-ball-telegram-bot
+cd 8BallApp
 ```
 
 3. Install the dependencies using npm:
